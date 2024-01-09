@@ -37,3 +37,5 @@ Toda vez que for executar o script, basta o seguinte comando:
 ```bash
 curl -s -L https://raw.githubusercontent.com/sharesourcecode/autoroll/master/freebitcoin.sh|sh
 ```
+
+O script abrirá o site frebitco.in a cada 30 minutos. Não esqueça de por o Kiwi Browser como seu navegador padrão sempre.
