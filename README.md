@@ -10,9 +10,9 @@ https://play.google.com/store/apps/details/Kiwi_Browser_Fast_Quiet?id=com.kiwibr
 Abra este link no Kiwi Browser e instale a extensão Tampermonkey:
 https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
-Se é pedido o captcha em seu navegador, tente este:
+Instale também a extensão hCaptcha Solver:
 
-https://f-droid.org/pt_BR/packages/de.monocles.browser/
+https://chromewebstore.google.com/detail/hcaptcha-solver/lfpfbgeoodeejmjdlfjbfjkemjlblijg
 
 Na configuração deste navegador utilize este user agent personalizado para o dominio freebitco.in:
 https://raw.githubusercontent.com/sharesourcecode/autoroll/master/monoclesUA.txt
