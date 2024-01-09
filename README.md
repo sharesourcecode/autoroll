@@ -39,4 +39,5 @@ curl -s -L https://raw.githubusercontent.com/sharesourcecode/autoroll/master/fre
 ```
 
 O script despertará o dispositivo a cada 30 minutos para não bloquear, e abrirá o site freebitco.in
+
 Não esqueça de por o Kiwi Browser como seu navegador padrão sempre.
