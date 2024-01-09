@@ -22,7 +22,10 @@ Instale isto para que as notificações despertem o dispositivo:
 https://play.google.com/store/apps/details?id=com.symeonchen.wakeupscreen
 
 
-Instale o complemento para o Termux:
+Instale o Termux e o complemento para o Termux:
+
+https://f-droid.org/pt_BR/packages/com.termux/
+
 https://f-droid.org/pt_BR/packages/com.termux.api/
 
 Execute o comando abaixo no Termux para funcionalidade do complemento:
