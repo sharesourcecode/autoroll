@@ -24,9 +24,9 @@ https://play.google.com/store/apps/details?id=com.symeonchen.wakeupscreen
 
 Instale o Termux e o complemento para o Termux:
 
-https://f-droid.org/pt_BR/packages/com.termux/
+1. https://f-droid.org/repo/com.termux_118.apk
 
-https://f-droid.org/pt_BR/packages/com.termux.api/
+2. https://f-droid.org/repo/com.termux.api_51.apk
 
 Execute o comando abaixo no Termux para funcionalidade do complemento:
 ```bash
