@@ -14,8 +14,8 @@ Instale também a extensão hCaptcha Solver:
 
 https://chromewebstore.google.com/detail/hcaptcha-solver/lfpfbgeoodeejmjdlfjbfjkemjlblijg
 
-Na configuração deste navegador utilize este user agent personalizado para o dominio freebitco.in:
-https://raw.githubusercontent.com/sharesourcecode/autoroll/master/monoclesUA.txt
+Instale o script para a extensão Tampermonkey:
+https://greasyfork.org/pt-BR/scripts/447780-freebitcoin-roll-newmode
 
 Instale isto para que as notificações despertem o dispositivo:
 
