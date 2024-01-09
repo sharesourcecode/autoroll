@@ -7,8 +7,8 @@ Configure o tempo de bloqueio máximo do dispositivo, provavelmente 30 minutos, 
 Instale o Kiwi Browser:
 https://play.google.com/store/apps/details/Kiwi_Browser_Fast_Quiet?id=com.kiwibrowser.browser&hl=en_US
 
-Importe este backup, se preciso edite no SmartAutoClicker:
-https://github.com/sharesourcecode/autoroll/raw/master/AutoRoll-Backup.zip
+Abra este link no Kiwi Browser e instale a extensão Tampermonkey:
+https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
 Se é pedido o captcha em seu navegador, tente este:
 
