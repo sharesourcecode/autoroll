@@ -4,8 +4,8 @@ https://freebitco.in/?r=51101595
 
 Configure o tempo de bloqueio máximo do dispositivo, provavelmente 30 minutos, e a tela deverá ficar ligada por no mínimo 1 minuto.
 
-Instale o SmartAutoClicker:
-https://f-droid.org/pt_BR/packages/com.buzbuz.smartautoclicker/
+Instale o Kiwi Browser:
+https://play.google.com/store/apps/details/Kiwi_Browser_Fast_Quiet?id=com.kiwibrowser.browser&hl=en_US
 
 Importe este backup, se preciso edite no SmartAutoClicker:
 https://github.com/sharesourcecode/autoroll/raw/master/AutoRoll-Backup.zip
