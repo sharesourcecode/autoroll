@@ -10,9 +10,9 @@ https://play.google.com/store/apps/details/Kiwi_Browser_Fast_Quiet?id=com.kiwibr
 Abra este link no Kiwi Browser e instale a extensão Tampermonkey:
 https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
-Instale também a extensão hCaptcha Solver:
+Instale também a extensão Solucionador de CAPTCHA: hCAPTCHA reCAPTCHA automático gratuito:
 
-https://chromewebstore.google.com/detail/hcaptcha-solver/lfpfbgeoodeejmjdlfjbfjkemjlblijg
+https://chromewebstore.google.com/detail/captcha-solver-free-auto/hlifkpholllijblknnmbfagnkjneagid
 
 Instale o script para a extensão Tampermonkey:
 https://greasyfork.org/pt-BR/scripts/447780-freebitcoin-roll-newmode
