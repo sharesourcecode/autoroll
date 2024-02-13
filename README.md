@@ -1,18 +1,16 @@
 # Auto ROLL
-Crie uma conta em:
-https://freebitco.in/?r=51101595
+Configure o tempo de bloqueio máximo do dispositivo, provavelmente 30 minutos, e a tela deverá ficar ligada por no mínimo 2 minuto.
 
-Configure o tempo de bloqueio máximo do dispositivo, provavelmente 30 minutos, e a tela deverá ficar ligada por no mínimo 1 minuto.
+Instale o IceRaven Browser:
+https://github.com/fork-maintainers/iceraven-browser/releases
 
-Instale o Kiwi Browser:
-https://play.google.com/store/apps/details/Kiwi_Browser_Fast_Quiet?id=com.kiwibrowser.browser&hl=en_US
+Crie uma conta em: https://freebitco.in/?r=51101595
 
-Abra este link no Kiwi Browser e instale a extensão Tampermonkey:
-https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
-Instale também a extensão Solucionador de CAPTCHA: hCAPTCHA reCAPTCHA automático gratuito:
+Abra este link no IceRaven Browser e instale a extensão Tampermonkey:
+https://addons.mozilla.org/pt-BR/android/addon/tampermonkey/
 
-https://chromewebstore.google.com/detail/captcha-solver-free-auto/hlifkpholllijblknnmbfagnkjneagid
+Instale também a extensão NopeCHA: CAPTCHA Solver através do menu Extensões no navegador
 
 Instale o script para a extensão Tampermonkey:
 https://greasyfork.org/pt-BR/scripts/447780-freebitcoin-roll-newmode
@@ -40,4 +38,4 @@ curl -s -L https://raw.githubusercontent.com/sharesourcecode/autoroll/master/fre
 
 O script despertará o dispositivo a cada 30 minutos para não bloquear, e abrirá o site freebitco.in
 
-Não esqueça de por o Kiwi Browser como seu navegador padrão sempre.
+Não esqueça de por o IceRaven Browser como seu navegador padrão sempre.
