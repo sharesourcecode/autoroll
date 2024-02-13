@@ -1,5 +1,5 @@
 # Auto ROLL
-Configure o tempo de bloqueio máximo do dispositivo, provavelmente 30 minutos, e a tela deverá ficar ligada por no mínimo 2 minuto.
+Configure o tempo de bloqueio máximo do dispositivo, provavelmente 30 minutos, e a tela deverá ficar ligada por no mínimo 5 minuto.
 
 Instale o IceRaven Browser:
 https://github.com/fork-maintainers/iceraven-browser/releases
