@@ -7,12 +7,9 @@ https://github.com/fork-maintainers/iceraven-browser/releases
 Crie uma conta em: https://freebitco.in/?r=51101595
 
 
-Abra este link no IceRaven Browser e instale a extensão Tampermonkey:
-https://addons.mozilla.org/pt-BR/android/addon/tampermonkey/
+Através do menu "Extensões" no navegador instale as extensões "Violentmonkey" e "NopeCHA: CAPTCHA Solver"
 
-Instale também a extensão NopeCHA: CAPTCHA Solver através do menu Extensões no navegador
-
-Instale o script para a extensão Tampermonkey:
+Instale o script a seguir para a extensão Violentmonkey:
 https://greasyfork.org/pt-BR/scripts/447780-freebitcoin-roll-newmode
 
 Instale isto para que as notificações despertem o dispositivo:
