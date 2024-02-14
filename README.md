@@ -7,7 +7,7 @@ https://github.com/fork-maintainers/iceraven-browser/releases
 Crie uma conta em: https://freebitco.in/?r=51101595
 
 
-Através do menu "Extensões" no navegador instale as extensões "Violentmonkey" e "NopeCHA: CAPTCHA Solver"
+Através do menu "Extensões" no navegador pesquise e instale as extensões "Violentmonkey" e "NopeCHA: CAPTCHA Solver"
 
 Instale o script a seguir para a extensão Violentmonkey:
 https://greasyfork.org/pt-BR/scripts/447780-freebitcoin-roll-newmode
